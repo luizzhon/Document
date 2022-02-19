@@ -1,2 +1,2 @@
-# Documenta-o
-Repositório para adicionar a documentação e prototipação do projeto de PI 
+# Documentação
+Repositório criado para adicionar a documentação e prototipação do projeto de PI do 3º Semestre.
